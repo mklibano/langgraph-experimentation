@@ -78,3 +78,12 @@ logs/
 *.tmp
 *.temp 
 
+# node files
+node_modules/
+
+# frontend build files
+frontend/build/
+
+# backend build files
+backend/build/
+
