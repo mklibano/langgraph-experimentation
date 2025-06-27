@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "letter_counter_agent": "./letter_counter_agent.py:app"
+  },
+  "env": ".env"
+} 
